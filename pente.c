@@ -4,7 +4,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <unistd.h>
-//#include <windows.h> //comment out if on Linux
+#include <windows.h> //comment out if on Linux
 #include <math.h>
 #include "pente.h"
 
