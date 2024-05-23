@@ -14,10 +14,12 @@
 #define TIE (1100)
 
 // The character length of the screen being played on
+// **THE NUMBERS USED HERE MAY BE DIFFERENT THAN WHAT WORKS ON YOUR SCREEN**
+// **THESE ARE JUST WHAT WORKED FOR ME**
 // for Windows 11 laptop, it is 155
 // for Ubuntu desktop, it is 205
-//#define SCREEN_LENGTH (155)
-#define SCREEN_LENGTH (205)
+#define SCREEN_LENGTH (155)
+//#define SCREEN_LENGTH (205)
 
 
 // This can be edited, but need to have something defined as this name
